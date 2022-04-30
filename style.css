@@ -1,0 +1,38 @@
+form {
+        background-color: #fff;
+        max-width: 500px;
+        margin: 50px auto;
+        padding: 30px 20px;
+        box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+        text-align: left;
+        margin-bottom: 25px;
+    }
+    h1{
+        color: #851e9e7e; }
+    label {
+        display: block;
+        margin-bottom: 10px;
+    }
+    input {       
+        border-radius: 2px;
+        font-family: inherit;
+        padding: 10px;
+        display: block;
+        width: 95%;
+        border-style:dotted ;
+    }
+    input[type="radio"],input[type="checkbox"] {
+        display: inline-block;
+        width: auto;
+    }
+    button {
+        background-color: #4d1f6b7a;
+        border: 1px solid black;
+        border-radius: 2px;
+        font-family: inherit;
+        font-size: 21px;
+        display:flex;
+        justify-content: center;
+        text-align: center; 
+        margin: auto;
+    }
